@@ -1,0 +1,29 @@
+BADGERTOP – two honey badgers. Zero cares. 🦡
+=============================================
+
+INSTALL
+1. Drag Badgertop into the Applications folder.
+2. Open Badgertop once. macOS will block it – that's expected.
+3. Go to System Settings → Privacy & Security, scroll down and click "Open Anyway".
+   Why: Badgertop isn't notarized by Apple (that costs $99/year and this is a small
+   indie project). On recent macOS this is the only way to start such an app.
+4. Look for 🦡 in the menu bar. Settings: ⌘,
+
+Terminal fallback:  xattr -dr com.apple.quarantine /Applications/Badgertop.app
+
+No extra permissions are needed. (Accessibility is optional and only an extra
+source for the Dock's shape – you can enable it later from the 🦡 menu.)
+It sends nothing to the internet (except a one-time license key check) and never
+reads window contents. Requires macOS 13 or newer, Apple Silicon or Intel.
+
+SUPPORT ❤️
+Any amount from the price of one espresso unlocks: 14 fur colors, the cub,
+food from nature, more languages and settings for almost everything.
+
+---------------------------------------------
+ČESKY
+1. Přetáhni Badgertop do složky Aplikace.
+2. Spusť ji – macOS ji zablokuje (není ověřená u Applu, to stojí 99 $ ročně).
+3. Nastavení systému → Soukromí a zabezpečení → dole „Přesto otevřít“.
+   Žádná další oprávnění nejsou potřeba.
+4. Nahoře v liště najdeš 🦡. Čeština je v menu 🦡 → Language (pro podporovatele).
