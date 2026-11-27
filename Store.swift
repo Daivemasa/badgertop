@@ -1,5 +1,5 @@
 // Podpora autora: „zaplať, kolik chceš" + licenční klíč, který odemkne bonusy
-// (14 barev srsti a mládě). Kód je open source, takže to není ochrana proti kopírování –
+// (15 barev srsti a mládě). Kód je open source, takže to není ochrana proti kopírování –
 // je to poděkování podporovatelům.
 //
 // NASTAVENÍ PRO VYDÁNÍ: vyplň storeURL (a u Polaru/Gumroadu productId).
@@ -69,7 +69,7 @@ enum Store {
         case .cs: return """
 Medojedy můžeš podpořit libovolnou částkou – už od ceny jednoho espressa ☕ (cca 50 Kč). Jako dík dostaneš odemykací kód, který natrvalo odemkne:
 
-• 14 barev srsti (zlatý, albín, panda, zombie, noční se svítícíma očima…)
+• 15 barev srsti (zlatý, albín, panda, zombie, noční se svítícíma očima…)
 • mládě, které cupitá za rodiči a napodobuje je
 • jídlo z přírody: stromy s jablky, žížaly, krtci (a ty nechutnosti k tomu)
 • otravnost „Hodně“ a častější lístečky
@@ -81,7 +81,7 @@ Všechno ostatní je a zůstane zdarma.
         case .de: return """
 Unterstütze die Dachse mit einem beliebigen Betrag – schon ab dem Preis eines Espressos ☕ (ca. 2 €). Als Dank bekommst du einen Freischaltcode, der dauerhaft freischaltet:
 
-• 14 Fellfarben (Gold, Albino, Panda, Zombie, Nacht mit leuchtenden Augen…)
+• 15 Fellfarben (Gold, Albino, Panda, Zombie, Nacht mit leuchtenden Augen…)
 • das Junge, das den Eltern hinterherläuft und sie nachahmt
 • Essen aus der Natur: Apfelbäume, Würmer, Maulwürfe (und das Eklige dazu)
 • Nerv-Faktor „Sehr“ und häufigere Zettel
@@ -93,7 +93,7 @@ Alles andere ist und bleibt kostenlos.
         case .es: return """
 Apoya a los tejones con lo que quieras, desde el precio de un espresso ☕ (unos 2 €). Como agradecimiento recibes un código que desbloquea para siempre:
 
-• 14 colores de pelaje (dorado, albino, panda, zombi, nocturno con ojos brillantes…)
+• 15 colores de pelaje (dorado, albino, panda, zombi, nocturno con ojos brillantes…)
 • la cría, que sigue a sus padres y los imita
 • comida de la naturaleza: manzanos, gusanos, topos (y lo asqueroso también)
 • fastidio «Mucho» y notas más frecuentes
@@ -105,7 +105,7 @@ Todo lo demás es y seguirá siendo gratis.
         case .fr: return """
 Soutiens les ratels du montant de ton choix, dès le prix d'un expresso ☕ (environ 2 €). En remerciement, tu reçois un code qui débloque pour toujours :
 
-• 14 couleurs de pelage (doré, albinos, panda, zombie, nuit aux yeux brillants…)
+• 15 couleurs de pelage (doré, albinos, panda, zombie, nuit aux yeux brillants…)
 • le petit, qui suit ses parents et les imite
 • de la nourriture : pommiers, vers, taupes (et le côté dégoûtant aussi)
 • embêtement « Beaucoup » et mots plus fréquents
@@ -117,7 +117,7 @@ Tout le reste est et restera gratuit.
         default: return """
 Support the badgers with any amount – starting at the price of one espresso ☕ (about $2). As a thank-you you get an unlock code that permanently unlocks:
 
-• 14 fur colors (golden, albino, panda, zombie, night with glowing eyes…)
+• 15 fur colors (golden, albino, panda, zombie, night with glowing eyes…)
 • the cub that follows its parents and copies them
 • food from nature: apple trees, worms, moles (and the gross stuff too)
 • “A lot” annoyance and more frequent notes

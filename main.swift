@@ -3147,7 +3147,7 @@ final class PropView: NSView {
         guard nowD - first > 3 * 86400, nowD - last > 7 * 86400 else { return }
         guard let aw = W.active, let p = adults.filter({ $0.free }).randomElement() else { return }
         ud.set(nowD, forKey: "lastAsk")
-        let it = Item(.support(tx("Líbíme se ti? 🦡\nPodpoř autora libovolnou částkou, ať má na zbytečně drahý kafe ☕\n\n(Tohle upozornění se ukáže jen jednou za týden.)") + "\n\n" + tx("Už od 1 espressa: 14 barev, mládě, jídlo z přírody, jazyky a další.")))
+        let it = Item(.support(tx("Líbíme se ti? 🦡\nPodpoř autora libovolnou částkou, ať má na zbytečně drahý kafe ☕\n\n(Tohle upozornění se ukáže jen jednou za týden.)") + "\n\n" + tx("Už od 1 espressa: 15 barev, mládě, jídlo z přírody, jazyky a další.")))
         it.carrier = p; it.pos = p.mouth
         items.append(it)
         p.carrying = it
