@@ -17,7 +17,7 @@ It sends nothing to the internet (except a one-time license key check) and never
 reads window contents. Requires macOS 13 or newer, Apple Silicon or Intel.
 
 SUPPORT ❤️
-Any amount from the price of one espresso unlocks: 14 fur colors, the cub,
+Any amount from the price of one espresso unlocks: 15 fur colors, the cub,
 food from nature, more languages and settings for almost everything.
 
 ---------------------------------------------
