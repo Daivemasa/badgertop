@@ -5,7 +5,8 @@
 A tiny desktop companion for macOS – two pixel honey badgers that live on your screen.</p>
 
 <p align="center">
-  <a href="https://github.com/Daivemasa/badgertop/releases/latest"><b>⬇️ Download for Mac</b></a> ·
+  <a href="https://github.com/Daivemasa/badgertop/releases/latest/download/Badgertop.dmg"><b>⬇️ Download for Mac</b></a> ·
+  <a href="https://daivemasa.github.io/badgertop/">🌐 Website</a> ·
   <a href="https://ko-fi.com/s/9223e4b2c2">☕ Upgrade or support with any amount</a>
 </p>
 

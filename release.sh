@@ -29,5 +29,7 @@ else
   hdiutil create -volname "Badgertop" -srcfolder "$STAGE" -ov -format UDZO "$DMG" >/dev/null
   rm -rf "$(dirname "$STAGE")"
 fi
+# stálé jméno pro odkaz releases/latest/download/Badgertop.dmg (web, README)
+cp "$DMG" dist/Badgertop.dmg
 shasum -a 256 "$ZIP" "$DMG"
-echo "Done: $ZIP and $DMG"
+echo "Done: $ZIP and $DMG (+ dist/Badgertop.dmg)"
