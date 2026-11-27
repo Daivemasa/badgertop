@@ -1,0 +1,6 @@
+dist/
+.DS_Store
+Resources/AppIcon.iconset/
+*.dSYM
+SUPPORTER-CODE.txt
+Badgertop-unlock-code.txt
