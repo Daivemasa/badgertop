@@ -40,7 +40,8 @@ They won't create anything for you, they won't cook your dinner. They'll just be
 - **Settings for almost everything**: speed, climbing, jumping, tunnels, talking, sleeping, playing, custom names
 
 This whole project is free. If you like it, I'd be really happy if you bought me a coffee ☕ –
-the minimum is $3 only because of payment fees, how much you give is entirely up to you.
+the minimum is $2 only because of payment fees, how much you give is entirely up to you.
+You can pay by card, PayPal, Google Pay or Apple Pay – **for Apple Pay open the link in Safari** (Chrome doesn't show it).
 
 👉 **[Get the unlock code](https://badgertop.gumroad.com/l/badgertop)**, then click 🦡 in the menu bar → *Enter license key…*
 
