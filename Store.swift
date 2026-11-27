@@ -18,7 +18,7 @@ extension Notification.Name { static let supporterChanged = Notification.Name("s
 
 enum Store {
     static let provider = "code"           // "code", "polar" nebo "gumroad"
-    static let storeURL = "https://ko-fi.com/s/9223e4b2c2"   // Ko-fi Shop (PayPal): kód je ve zprávě po zaplacení + v souboru
+    static let storeURL = "https://badgertop.gumroad.com/l/badgertop"   // Gumroad (karta, Apple Pay, PayPal): kód je v obsahu po zaplacení + v souboru
     static let productId = ""              // Polar: Organization ID · Gumroad: product ID
 
     static var configured: Bool { provider == "code" ? !storeURL.isEmpty : !productId.isEmpty }
