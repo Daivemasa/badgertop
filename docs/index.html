@@ -70,6 +70,12 @@
   section { padding: 64px 0; }
   section.alt { background: var(--card); border-top: 4px solid var(--line); border-bottom: 4px solid var(--line); }
 
+  /* proč */
+  .why { text-align: center; max-width: 680px; margin: 0 auto; }
+  .why p { font-size: 19px; line-height: 1.7; margin: 0 0 14px; }
+  .why .quiet { color: var(--sub); font-size: 16px; }
+  .note { background: var(--card); border: 3px dashed var(--honey-dark); padding: 18px 20px; margin: 0 0 30px; font-size: 16px; }
+
   /* galerie skutečných snímků */
   .gallery { display: grid; grid-template-columns: repeat(2, 1fr); gap: 22px; }
   .gallery figure { margin: 0; }
@@ -164,6 +170,15 @@
     <img class="shot" src="images/hero.png" alt="Badgers climbing windows, a ladder, the burrow and the Dock on a Mac desktop">
   </div>
 
+  <section class="alt">
+    <div class="wrap why">
+      <h2>Just for calm</h2>
+      <p>Badgertop is just a little something for long days at the computer – a small distraction when you need one.</p>
+      <p class="quiet">They won't create anything for you. They won't cook your dinner. They'll just be there, climbing your windows –
+        and hopefully you'll be glad they're keeping you company.</p>
+    </div>
+  </section>
+
   <section>
     <div class="wrap">
       <h2>Live on a real Mac</h2>
@@ -197,6 +212,8 @@
     <div class="wrap">
       <h2>Free. Bonuses for any coffee.</h2>
       <p class="lead">Everything above is free forever. Support with any amount and you get an unlock code instantly.</p>
+      <div class="note">☕ This whole project is free. If you like it, I'd be really happy if you bought me a coffee.
+        The minimum is $3 only because of payment fees – how much you give is entirely up to you.</div>
       <div class="plans">
         <div class="plan">
           <h3>Free</h3>
@@ -212,7 +229,7 @@
         </div>
         <div class="plan pro">
           <h3>Supporter</h3>
-          <div class="price">from $3 · pay what you want · once</div>
+          <div class="price">one coffee · from $3 (payment fees) · pay what you want</div>
           <ul>
             <li>15 extra fur colors</li>
             <li>The cub that copies its parents</li>
