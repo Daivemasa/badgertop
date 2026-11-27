@@ -15,6 +15,9 @@ A tiny desktop companion for macOS – two pixel honey badgers that live on your
 They climb your windows and the Dock, build ladders out of sticks, dig tunnels, wrestle, chase your cursor,
 bring you reminder notes, eat whatever grows on your desktop, grow old – and they really, truly do not care.
 
+**Just for calm.** Badgertop is a little something for long days at the computer – a small distraction when you need one.
+They won't create anything for you, they won't cook your dinner. They'll just be there with you – and hopefully you'll be glad they are.
+
 <p align="center"><img src="docs/images/features.png" alt="17 fur colors, the life cycle from cub to senior, and a burrow that grows"></p>
 
 ## Free
@@ -35,6 +38,9 @@ bring you reminder notes, eat whatever grows on your desktop, grow old – and t
 - **“A lot” annoyance** and more frequent notes
 - **More languages**: Czech, German, Spanish, French
 - **Settings for almost everything**: speed, climbing, jumping, tunnels, talking, sleeping, playing, custom names
+
+This whole project is free. If you like it, I'd be really happy if you bought me a coffee ☕ –
+the minimum is $3 only because of payment fees, how much you give is entirely up to you.
 
 👉 **[Get the unlock code on Ko-fi](https://ko-fi.com/s/9223e4b2c2)**, then click 🦡 in the menu bar → *Enter license key…*
 
